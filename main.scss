@@ -217,7 +217,10 @@ Generated with https://icomoon.io/app/
 */
 @font-face {
 	font-family: 'font-awesome';
+	/*
 	src: url('font-awesome.woff') format('woff');
+	*/
+	src: url(//raw.githubusercontent.com/Keyamoon/IcoMoon-Free/master/Font/IcoMoon-Free.ttf) format('truetype');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -239,6 +242,8 @@ Generated with https://icomoon.io/app/
 	content: '\e905';
 }
 
+
+
 .fa-github:before {
 	content: '\eab0';
 }
@@ -250,6 +255,9 @@ Generated with https://icomoon.io/app/
 .fa-linkedin:before {
 	content: '\eac9';
 }
+
+
+
 
 .fa-twitter:before {
 	content: '\ea96';

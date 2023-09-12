@@ -2,29 +2,30 @@
 layout: about
 title: about
 permalink: /
-subtitle: >
-  <b> Assistant Professor</b> <br>
-  Department of Radiology <br>
-  NYU Grossman School of Medicine <br>
-  Email: ys1001 at nyu dot edu
+subtitle:
 
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
-  address: 
+  name: <b> Yiqiu Shen  </b>
+  address: >
+    Assistant Professor <br>
+    Department of Radiology <br>
+    NYU Grossman School of Medicine <br>
+    Email: ys1001 at nyu dot edu
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-news: false  # includes a list of news items
+news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 social: true  # includes social icons at the bottom of the page
 ---
-My research focuses on creating <b> label-efficient </b> and <b>explainable </b> deep learning models for medical imaging to improve clinical workflow and patient care. I draw inspiration from and contribute to technical fields including weakly supervised learning, multiple instance learning, and contrastive learning. Currently, I am excited about exploring directions:
+My research focuses on creating <b> label-efficient </b> and <b>explainable </b> deep learning models for medical imaging to improve clinical workflow and patient care.In particular, I am excited about exploring the following directions:
 - <b> Multimodal learning</b>: How can we efficiently integrate information from different modalities (e.g. imaging, text, tabular data, sequential data) to better inform clinical decisions?
 - <b> Explainable AI</b>: Can we enable computer aided diagnosis systems to explain their reasoning in a way that mimics how humans communicate?
 - <b> Human-AI collaboration</b>: What is the optimal way to present an AI's diagnosis to clinicians so they can collaborate effectively to maximize patient outcomes?
  
-I received my Ph.D. at the <a href='https://cds.nyu.edu/'> NYU Center for Data Science</a>, advised by <a href='https://cs.nyu.edu/~kgeras/'> Prof. Krzysztof J. Geras </a> and <a href='https://kyunghyuncho.me/'> Prof. Kyunghyun Cho </a>. Prior to joining NYU, I worked at <a href='https://www.twosigma.com/'> Two Sigma Investments </a>. I hold a Bachelor's degree in Computer Science from <a href='https://www.rice.edu/'> Rice University </a>.
+I received my Ph.D. at the <a href='https://cds.nyu.edu/'> NYU Center for Data Science</a>, advised by <a href='https://cs.nyu.edu/~kgeras/'> Prof. Krzysztof J. Geras</a> and <a href='https://kyunghyuncho.me/'> Prof. Kyunghyun Cho</a>. Prior to joining NYU, I worked at <a href='https://www.twosigma.com/'> Two Sigma Investments</a>. I hold a Bachelor's degree in Computer Science from <a href='https://www.rice.edu/'> Rice University</a>.
 
-<b> Perspective students:</b> Starting in Fall 2023, I'm looking for dedicated Ph.D. students to join my team. You can apply through either the <a href='https://cds.nyu.edu/phd-admissions-req/'> NYU Data Science PhD prorgam</a> or the  <a href='https://cs.nyu.edu/home/phd/admission.html'> NYU Courant Computer Science Ph.D. program</a>. I'm also open to collaborations with predoctoral researchers and visiting scholars. If you are interested in working with me, please drop me an email.
+<b> Perspective students:</b> Starting in 2024, I'm looking for motivated Ph.D. students to join my team. Please check out <a href='https://docs.google.com/document/d/1dQK3Kf0pwar6h3O0DpON5JsasvvJ0D8_bzDcg9mCdw0'> my advising statement</a> . I'm also open to collaborations with predoctoral researchers and visiting scholars. If you are interested in working with me, please drop me an email.

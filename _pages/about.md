@@ -34,5 +34,5 @@ Starting in Fall 2026, I am looking for highly motivated Ph.D. students to join 
 Our work explores exciting frontiers in AI and medical imaging, including:  
 - Developing <i>multi-modal deep learning models</i> that integrate medical imaging (across multiple modalities) with clinical data such as EHRs and lab results.  
 - Designing <i>counterfactual deep learning approaches</i> to optimize diagnostic and treatment pathways.  
-- Building <i>AI systems for video analysis</i>, with applications such as understanding infant development.  
+- Building <i>AI systems for video analysis</i>, with applications such as understanding infant psychology development.  
 

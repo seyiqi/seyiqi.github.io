@@ -22,10 +22,15 @@ latest_posts: false  # includes a list of the newest posts
 social: true  # includes social icons at the bottom of the page
 ---
 My research focuses on creating <b> label-efficient </b> and <b>explainable </b> deep learning models for medical imaging to improve clinical workflow and patient care.In particular, I am excited about exploring the following directions:
-- <b> Multimodal learning</b>: How can we efficiently integrate information from different modalities (e.g. imaging, text, tabular data, sequential data) to better inform clinical decisions?
-- <b> Explainable AI</b>: Can we enable computer aided diagnosis systems to explain their reasoning in a way that mimics how humans communicate?
-- <b> Human-AI collaboration</b>: What is the optimal way to present an AI's diagnosis to clinicians so they can collaborate effectively to maximize patient outcomes?
- 
+  - <b> Multimodal learning</b>: How can we efficiently integrate information from different modalities (e.g. imaging, text, tabular data, sequential data) to better inform clinical decisions?
+  - <b> Explainable AI</b>: Can we enable computer aided diagnosis systems to explain their reasoning in a way that mimics how humans communicate?
+  - <b> Human-AI collaboration</b>: What is the optimal way to present an AI's diagnosis to clinicians so they can collaborate effectively to maximize patient outcomes? 
+
 I received my Ph.D. at the <a href='https://cds.nyu.edu/'> NYU Center for Data Science</a>, advised by <a href='https://cs.nyu.edu/~kgeras/'> Prof. Krzysztof J. Geras</a> and <a href='https://kyunghyuncho.me/'> Prof. Kyunghyun Cho</a>. Prior to joining NYU, I worked at <a href='https://www.twosigma.com/'> Two Sigma Investments</a>. I hold a Bachelor's degree in Computer Science from <a href='https://www.rice.edu/'> Rice University</a>.
 
-<b> Perspective students:</b> Starting in 2024, I'm looking for motivated Ph.D. students to join my team. Please check out <a href='https://docs.google.com/document/d/1dQK3Kf0pwar6h3O0DpON5JsasvvJ0D8_bzDcg9mCdw0'> my advising statement</a> . I'm also open to collaborations with predoctoral researchers and visiting scholars. If you are interested in working with me, please drop me an email.
+<b> Perspective students:</b> 
+Starting in Fall 2026, I am looking for highly motivated Ph.D. students to join my research group. Our work explores exciting frontiers in AI and medical imaging, including:  
+- Developing <i>multi-modal deep learning models</i> that integrate medical imaging (across multiple modalities) with clinical data such as EHRs and lab results.  
+- Designing <i>counterfactual deep learning approaches</i> to optimize diagnostic and treatment pathways.  
+- Building <i>AI systems for video analysis</i>, with applications such as understanding infant development.  
+For more details, please check out <a href='https://docs.google.com/document/d/1dQK3Kf0pwar6h3O0DpON5JsasvvJ0D8_bzDcg9mCdw0'> my advising statement</a> . I'm also open to collaborations with predoctoral researchers and visiting scholars. If you are interested in working with me, please drop me an email. 

@@ -1,0 +1,129 @@
+# Current Students
+current_students:
+ - name: "Yanqi Xu"
+   program: "PhD in Data Science"
+   image: "https://cds.nyu.edu/wp-content/uploads/2024/08/Yanqi-Xu-e1723935570355-300x300.png"  # Example URL image
+   status: "Current"
+   profile_url: "https://cds.nyu.edu/team/yanqi-xu/"
+    
+ - name: "Jiajian Ma, MD"
+   program: "PhD in Data Science"
+   image: "https://cds.nyu.edu/wp-content/uploads/2024/08/Jiajian-Ma.png"
+   status: "Current"
+   profile_url: "https://cds.nyu.edu/team/jiajian-ma/"
+    
+ - name: "Ebrahim Rasromani"
+   program: "PhD in Data Science"
+   image: "https://cds.nyu.edu/wp-content/uploads/2024/08/Ebrahim-Rasromani.png"
+   start_year: 2024
+   status: "Current"
+   profile_url: "https://cds.nyu.edu/team/ebrahim-rasromani/"
+
+ - name: "Neil Chen"
+   program: "MS in Data Science"
+   image: "https://media.licdn.com/dms/image/v2/D5603AQEUzda1AXJcpQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1726159642776?e=1759968000&v=beta&t=0a0MwpqsiL-C9YcEYUxQgqV_yHfNcbdAN0qwkTb0c4M"
+   start_year: 2024
+   status: "Current"
+   profile_url: "https://www.linkedin.com/in/neil-chen-12b047326/"
+
+ - name: "Beisong Liu"
+   program: "MS in Data Science"
+   image: "https://media.licdn.com/dms/image/v2/D4E03AQEc0X3nURD7Xg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1724532656510?e=1759968000&v=beta&t=qaEicSpZ88CQadI9nkLJFhPeQYM9G_KGVNgt0-3V070"
+   start_year: 2024
+   status: "Current"
+   profile_url: "https://www.linkedin.com/in/beisong-liu/"
+
+ - name: "Wushuang Rui"
+   program: "MS in Biology"
+   start_year: 2024
+   status: "Current"
+   profile_url: "https://scholar.google.com/citations?user=GeE9c7oAAAAJ&hl=zh-CN"
+
+ - name: "David Zhao"
+   program: "BS in Computer Science"
+   start_year: 2024
+   status: "Current"
+   profile_url: "https://www.linkedin.com/in/david-zhao-a0b437269"
+
+# Research Staff
+research_staff:
+  - name: "Alex Chen"
+    position: "Bioinformatics Analyst"
+    image: "https://media.licdn.com/dms/image/v2/D4D03AQEI1yVHaoPsZw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1689567617224?e=1759968000&v=beta&t=QNqDSCkwqG_C8CUCvJLqe3Y49WGpzG5FsPqe4n91-Jk"
+    start_year: 2023
+    status: "Current"
+    profile_url: "https://www.linkedin.com/in/alex-yuxuan-chen-343109284/"
+  
+  - name: "Pranav Singh"
+    position: "Reseach Scientist"
+    image: "https://pranavsinghps1.github.io/images/pp.jpg"
+    start_year: 2023
+    status: "Current"
+    profile_url: "https://pranavsinghps1.github.io/"
+  
+# Alumni Students
+alumni_students:
+  - name: "Yujia Wu"
+    program: "MS in Data Science"
+    start_year: 2024
+    end_year: 2025
+    current_position: "PhD in Biomedical Engineering"
+    current_institution: "Dartmouth College"
+    profile_url: "https://www.linkedin.com/in/yujia-wu-290823289/"
+
+  - name: "Haoyan Yang"
+    program: "MS in Data Science"
+    start_year: 2024
+    end_year: 2025
+    current_position: "PhD in Computer Science"
+    current_institution: "Stony Brook University"
+    profile_url: "https://www.linkedin.com/in/haoyan-yang/"
+
+  - name: "Amelia Dai"
+    program: "MS in Data Science"
+    start_year: 2024
+    end_year: 2025
+    current_position: "PhD in Data Science"
+    current_institution: "University of Chicago"
+    profile_url: "https://www.linkedin.com/in/hui-dai/"
+
+  - name: "Grace Chen"
+    program: "BA in Mathematics and Computer Science"
+    start_year: 2024
+    end_year: 2025
+    current_position: "MS in Data Science"
+    current_institution: "Harvard University"
+    profile_url: "https://www.linkedin.com/in/grace-chen-37a974293/"
+
+  - name: "Steven Zhang"
+    program: "BA in Computer Science and Data Science"
+    start_year: 2024
+    end_year: 2025
+    current_position: "MS in Information Networking"
+    current_institution: "Carnegie Mellon University"
+    profile_url: "https://www.linkedin.com/in/qingyzhang"
+
+  - name: Yang Hu
+    program: "BA in Computer Science"
+    start_year: 2024
+    end_year: 2025
+    current_position: "MS in Computer and Information Science"
+    current_institution: "University of Pennsylvania"
+    profile_url: "https://www.linkedin.com/in/yh312/"
+
+  - name: Jack Guo
+    program: "BA in Computer Science and Mathematics"
+    start_year: 2024
+    end_year: 2025
+    current_position: "MS in Machine Learning"
+    current_institution: "Carnegie Mellon University"
+    profile_url: "https://www.linkedin.com/in/zhanqiu-guo-b932b624b/"
+
+  - name: Gary Pan
+    program: "BA in Computer Science"
+    start_year: 2023
+    end_year: 2024
+    current_position: "MS in Robotics"
+    current_institution: "Carnegie Mellon University"
+    profile_url: "https://www.linkedin.com/in/hengkaipan/"
+

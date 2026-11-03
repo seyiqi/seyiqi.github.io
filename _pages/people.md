@@ -64,6 +64,9 @@ nav_order: 6
         {%- endif -%}
       </h3>
       <p class="student-program">{{ staff.position }}</p>
+      {%- if staff.linkedin_url -%}
+      <p><a href="{{ staff.linkedin_url }}" target="_blank" rel="noopener noreferrer">LinkedIn</a></p>
+      {%- endif -%}
     </div>
   </div>
 {%- endfor -%}

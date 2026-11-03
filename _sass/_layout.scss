@@ -26,6 +26,13 @@ body.sticky-bottom-footer {
   max-width: $max-content-width;
 }
 
+.news th[scope="row"] {
+  width: 10.4rem;
+  min-width: 10.4rem;
+  padding-right: 1.5rem;
+  white-space: nowrap;
+}
+
 // Profile
 .profile {
   img {

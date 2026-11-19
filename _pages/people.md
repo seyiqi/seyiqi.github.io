@@ -117,7 +117,6 @@ nav_order: 6
 .alumni-item:last-child {
   border-bottom: none;
 }
-
 .student-card {
   background: var(--card-bg);
   border-radius: 10px;

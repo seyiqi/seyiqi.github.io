@@ -1,17 +1,12 @@
 current_students:
-  - name: "Yanqi Xu"
-    program: "PhD in Data Science"
-    image: "https://cds.nyu.edu/wp-content/uploads/2024/08/Yanqi-Xu-e1723935570355-300x300.png"
-    status: "Current"
-    profile_url: "https://cds.nyu.edu/team/yanqi-xu/"
   - name: "Jiajian Ma, MD"
     program: "PhD in Data Science"
-    image: "https://cds.nyu.edu/wp-content/uploads/2024/08/Jiajian-Ma.png"
+    image: "jiajian-ma.webp"
     status: "Current"
     profile_url: "https://cds.nyu.edu/team/jiajian-ma/"
   - name: "Ebrahim Rasromani"
     program: "PhD in Data Science"
-    image: "https://cds.nyu.edu/wp-content/uploads/2024/08/Ebrahim-Rasromani.png"
+    image: "ebrahim-rasromani.webp"
     start_year: 2024
     status: "Current"
     profile_url: "https://cds.nyu.edu/team/ebrahim-rasromani/"
@@ -72,7 +67,18 @@ current_students:
     status: "Current"
     profile_url: "https://www.linkedin.com/in/dingyu-fu-218a7a21b/"
 
+  - name: "Aarti Darji"
+    image: "https://aarti-darji.github.io/assets/img/prof_pic.jpg"
+    program: "MS in Computer Science, NYU Courant"
+    status: "Current"
+    profile_url: "https://www.linkedin.com/in/aarti-darji/"
+
 research_staff:
+  - name: "Yanqi Xu"
+    position: "Post-doctoral Researcher"
+    image: "yanqi-xu.webp"
+    status: "Current"
+    profile_url: "https://cds.nyu.edu/team/yanqi-xu/"
   - name: "Alex Chen"
     position: "Bioinformatics Analyst"
     image: "alex-chen.jpeg"
